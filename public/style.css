@@ -1,0 +1,27 @@
+.body{
+    margin-left: 20px;
+    background-image: url("https://png.pngtree.com/background/20210712/original/pngtree-chat-message-bubble-chat-dialogue-communication-concept-phone-picture-image_1171694.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+    background-position: center;
+}
+
+.chat{
+    background-color: aliceblue;
+    padding:20px;
+    border-radius: 16px;
+    display:inline-block;
+}
+.Allchat{
+    text-align: center;
+    color: antiquewhite;
+    font-size:24px;
+    
+}
+.msg{
+    background-color: dodgerblue;
+    color:whitesmoke;
+    padding:5px 15px;
+    border-radius: 16px;
+}
